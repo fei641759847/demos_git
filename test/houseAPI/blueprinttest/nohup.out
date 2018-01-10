@@ -1,0 +1,32 @@
+[2017-12-13 10:07:02 +0000] [30660] [INFO] Starting gunicorn 19.6.0
+[2017-12-13 10:07:02 +0000] [30660] [INFO] Listening at: http://0.0.0.0:8899 (30660)
+[2017-12-13 10:07:02 +0000] [30660] [INFO] Using worker: sync
+[2017-12-13 10:07:02 +0000] [30699] [INFO] Booting worker with pid: 30699
+[2017-12-13 10:07:02 +0000] [30708] [INFO] Booting worker with pid: 30708
+[2017-12-13 10:07:02 +0000] [30709] [INFO] Booting worker with pid: 30709
+[2017-12-13 10:07:02 +0000] [30714] [INFO] Booting worker with pid: 30714
+[2017-12-13 10:08:05 +0000] [30660] [CRITICAL] WORKER TIMEOUT (pid:30714)
+[2017-12-13 10:08:05 +0000] [30714] [INFO] Worker exiting (pid: 30714)
+[2017-12-13 10:08:05 +0000] [30781] [INFO] Booting worker with pid: 30781
+[2017-12-13 11:08:48 +0000] [30660] [CRITICAL] WORKER TIMEOUT (pid:30708)
+[2017-12-13 11:08:48 +0000] [30708] [INFO] Worker exiting (pid: 30708)
+[2017-12-13 11:08:48 +0000] [7997] [INFO] Booting worker with pid: 7997
+[2017-12-15 20:09:24 +0000] [7997] [INFO] Worker exiting (pid: 7997)
+[2017-12-15 20:09:24 +0000] [12362] [INFO] Booting worker with pid: 12362
+[2017-12-15 20:12:51 +0000] [30660] [CRITICAL] WORKER TIMEOUT (pid:30781)
+[2017-12-15 20:12:51 +0000] [30781] [INFO] Worker exiting (pid: 30781)
+[2017-12-15 20:12:52 +0000] [12574] [INFO] Booting worker with pid: 12574
+[2017-12-15 20:13:26 +0000] [12665] [INFO] Booting worker with pid: 12665
+[2017-12-15 20:16:55 +0000] [12574] [INFO] Worker exiting (pid: 12574)
+[2017-12-15 20:16:55 +0000] [30709] [INFO] Worker exiting (pid: 30709)
+[2017-12-15 20:16:55 +0000] [30699] [INFO] Worker exiting (pid: 30699)
+[2017-12-15 20:16:55 +0000] [30660] [INFO] Handling signal: term
+[2017-12-15 20:16:55 +0000] [12665] [INFO] Worker exiting (pid: 12665)
+[2017-12-15 20:16:55 +0000] [30660] [INFO] Shutting down: Master
+[2017-12-15 20:18:18 +0000] [12961] [INFO] Starting gunicorn 19.6.0
+[2017-12-15 20:18:18 +0000] [12961] [INFO] Listening at: http://0.0.0.0:8899 (12961)
+[2017-12-15 20:18:18 +0000] [12961] [INFO] Using worker: sync
+[2017-12-15 20:18:18 +0000] [12966] [INFO] Booting worker with pid: 12966
+[2017-12-15 20:18:18 +0000] [12968] [INFO] Booting worker with pid: 12968
+[2017-12-15 20:18:18 +0000] [12972] [INFO] Booting worker with pid: 12972
+[2017-12-15 20:18:18 +0000] [12977] [INFO] Booting worker with pid: 12977

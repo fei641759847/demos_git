@@ -1,0 +1,119 @@
+#coding: utf-8
+
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
+
+import logging
+from flask import Flask,Blueprint
+import json,time
+import pymysql
+from . import house_api
+
+logging.basicConfig(level=logging.DEBUG,
+        format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',
+        datefmt='%a,%d %b %Y %H:%M:%S',
+        filename='./house.log',
+        filemod='a')
+
+config={
+  'host':'127.0.0.1',                                      
+  'port':3306,                                             
+  'user':'root',                                           
+  'password':'123.com',
+  'db':'spider',
+  'charset':'utf8',
+}
+
+def select_db():
+  house_dict={}
+  house_list=[]
+  try:
+    conn=pymysql.connect(**config)
+    cur=conn.cursor()
+    #cur.execute('select * from house limit 2')
+    cur.execute('select * from house_all')
+    result=cur.fetchall()
+    for i in result:
+      #print type(i)
+      #print i
+      pass_yse=0
+      pass_no=0
+      department_dict={}
+      house_dict={
+        'id':i[0],
+        'province':i[1],
+        'city':i[2],
+        'target':i[3],
+        'currentPrice':i[4],
+        'bidCount':i[5],
+        'marketPrice':i[6],
+        'applyCount':i[7],
+        'viewerNum':i[8],
+        'startTime':i[9],
+        'stopTime':i[10],
+        'status':i[11],
+        'department':i[12],
+        'addPrice':i[13],
+        'deposit':i[14],
+        'startPrice':i[15],
+        'period':i[16],
+        'property':i[17],
+        'pass_in':i[18],
+      }
+
+      t=house_dict['startTime']
+      t1=house_dict['stopTime']
+      time_local=time.localtime(t)
+      t_a=time.strftime("%Y-%m-%d %H:%M:%S",time_local)
+      time_local1=time.localtime(t1)
+      t1_a=time.strftime("%Y-%m-%d %H:%M:%S",time_local1)
+      house_dict['startTime']=t_a
+      house_dict['stopTime']=t1_a
+
+      house_list.append(house_dict)
+#统计流拍及成功次数，department_list的值前面是流拍次数，后面是成功次数
+
+    for i in house_list:
+      if i['department'] not in department_dict:
+        department_dict[i['department']]=[0,0]
+        #print 'new department'
+      else:
+        if i['status']==u'已经结束' and i['bidCount']==0:
+          #流拍加1
+          #print 'liupai+1'
+          department_dict[i['department']][0]+=1
+        elif i['status']==u'已经结束' and i['bidCount']!=0:
+          #成功加1
+          #print 'chenggong+1'
+          department_dict[i['department']][1]+=1
+        #else:
+          #print 'error',i['status'],i['department']
+          #logging.debug('')
+    #print department_dict
+#把流拍率加入到总数据中去
+    #cur2=conn.cursor()
+    for j in house_list:
+      pass_no=department_dict[j['department']][0]
+      pass_yes=department_dict[j['department']][1]
+      if pass_no+pass_yes==0:
+        pass_per=0
+      else:
+        pass_per=pass_no/float(pass_no+pass_yes)
+      j['pass_in']=str(round(pass_per,3)*100)+'%'
+      #sql = 'INSERT INTO employees (first_name, last_name, hire_date, gender, birth_date) VALUES (%s, %s, %s, %s, %s)'
+       # cursor.execute(sql, ('Robin', 'Zhyea', tomorrow, 'M', date(1989, 6, 14)))
+     # sql='insert into house_all (id,province,city,target,currentPrice,currentPrice,marketPrice,applyCount,viewerNum,startTime,stopTime,status,department,addPrice,deposit,startPrice,period,property,pass_in) values (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)'
+      #cur2.execute(sql,(j['id'],j['province'],j['city'],j['target'],j['currentPrice'],j['currentPrice'],j['marketPrice'],j['applyCount'],j['viewerNum'],j['startTime'],j['stopTime'],j['status'],j['department'],j['addPrice'],j['deposit'],j['startPrice'],j['period'],j['property'],j['pass_in']))
+    #conn.commit()
+    #conn.close()
+
+    logging.debug('data ok')
+    return house_list
+  except:
+    logging.debug('data error')
+
+@house_api.route('/all')
+def house():
+  data=select_db()
+  return json.dumps(data)

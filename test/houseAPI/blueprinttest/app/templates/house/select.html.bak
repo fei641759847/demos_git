@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>选择生成条件</title>
+  </head>
+  <body>
+    <h1>选择生成条件</h1>
+    <div>
+      <form action="/house_api/select" method="post">
+        <h3>选择城市</h3><br/>
+        <label><input name="city" type="radio" value="武汉" />武汉 </label>
+        <label><input name="city" type="radio" value="合肥" />合肥 </label>
+        <label><input name="city" type="radio" value="贵阳" />贵阳 </label>
+        <label><input name="city" type="radio" value="北京" />北京</label>
+        <label><input name="city" type="radio" value="上海" />上海 </label>
+        <label><input name="city" type="radio" value="重庆" />重庆 </label>
+        <label><input name="city" type="radio" value="天津" />天津 </label>
+        <label><input name="city" type="radio" value="南京" />南京 </label>
+        <label><input name="city" type="radio" value="东莞" />东莞</label>
+        <label><input name="city" type="radio" value="广州" />广州 </label>
+        <label><input name="city" type="radio" value="珠海" />珠海 </label>
+        <label><input name="city" type="radio" value="惠州" />惠州 </label>
+        <label><input name="city" type="radio" value="中山" />中山 </label>
+        <label><input name="city" type="radio" value="长沙" />长沙</label>
+        <h3>是否可贷款</h3><br/>
+        <label><input name="loan" type="radio" value="1" />是 </label>
+        <label><input name="loan" type="radio" value="2" />不限定 </label>
+        <br/>
+        <input type="submit" value="提交" />
+      </form>
+    </div>
+  </body>
+</html>
+

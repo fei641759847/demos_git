@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>选择生成条件</title>
+  </head>
+  <body>
+    <h1>选择生成条件</h1>
+    <div>
+      <form action="/house_api/select" method="post">
+        <h3>输入城市名</h3>
+        <input name="city1" type="text" />
+        <h3>是否可贷款</h3>
+        <label><input name="loan" type="radio" value="1" />是 </label>
+        <label><input name="loan" type="radio" value="2" checked="checked" />不限定 </label>
+        <br/>
+        <h3>起止时间</h3>
+        <span>开始时间</span><input type="date" name="start" value="2017/9/1" ><br />
+        <span>结束时间</span><input type="date" name="end" value="2017/11/30" ><br />
+        <h3>是否去除未开始和正在进行</h3>
+        <label><input name="do" type="radio" value="1" checked="checked" />是 </label>
+        <label><input name="do" type="radio" value="0" />否 </label>
+        <br/>
+        <input type="submit" value="提交" /><br />
+        <h3>当前已有城市</h3>
+        {% for city in city_num %}
+        <label><input name="city" type="radio" value="{{ city_num[city] }}" />{{ city }} </label>
+        {% endfor %}
+      </form>
+    </div>
+  </body>
+</html>
+

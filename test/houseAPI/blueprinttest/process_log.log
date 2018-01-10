@@ -1,0 +1,582 @@
+Fri,17 Nov 2017 14:57:18 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,17 Nov 2017 14:57:18 _internal.py[line:87] INFO  * Debugger PIN: 130-578-507
+Fri,17 Nov 2017 14:57:26 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Fri,17 Nov 2017 14:57:26 _internal.py[line:87] INFO  * Restarting with stat
+Fri,17 Nov 2017 14:57:26 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,17 Nov 2017 14:57:26 _internal.py[line:87] INFO  * Debugger PIN: 130-578-507
+Fri,17 Nov 2017 15:43:06 _internal.py[line:87] INFO  * Detected change in '/root/blueprinttest/app/blog/views.py', reloading
+Fri,17 Nov 2017 15:43:06 _internal.py[line:87] INFO  * Restarting with stat
+Fri,17 Nov 2017 15:44:50 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Fri,17 Nov 2017 15:44:50 _internal.py[line:87] INFO  * Restarting with stat
+Fri,17 Nov 2017 15:44:50 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,17 Nov 2017 15:44:50 _internal.py[line:87] INFO  * Debugger PIN: 130-578-507
+Fri,17 Nov 2017 15:45:23 log_func.py[line:15] DEBUG reuse test
+Fri,17 Nov 2017 15:45:23 log_func.py[line:15] DEBUG mongodb://root:123.com@localhost:27017/flask
+Fri,17 Nov 2017 15:45:23 _internal.py[line:87] INFO 114.255.67.90 - - [17/Nov/2017 15:45:23] "GET /blog/ HTTP/1.1" 200 -
+Fri,17 Nov 2017 15:56:36 log_func.py[line:15] DEBUG reuse test
+Fri,17 Nov 2017 15:56:36 log_func.py[line:15] DEBUG mongodb://root:123.com@localhost:27017/flask
+Fri,17 Nov 2017 15:56:36 _internal.py[line:87] INFO 114.255.67.90 - - [17/Nov/2017 15:56:36] "GET /blog/ HTTP/1.1" 200 -
+Fri,17 Nov 2017 16:38:23 _internal.py[line:87] INFO  * Detected change in '/root/blueprinttest/app/blog/views.py', reloading
+Fri,17 Nov 2017 16:38:23 _internal.py[line:87] INFO  * Restarting with stat
+Fri,17 Nov 2017 16:38:24 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,17 Nov 2017 16:38:24 _internal.py[line:87] INFO  * Debugger PIN: 130-578-507
+Fri,17 Nov 2017 16:38:31 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Fri,17 Nov 2017 16:38:31 _internal.py[line:87] INFO  * Restarting with stat
+Fri,17 Nov 2017 16:38:31 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,17 Nov 2017 16:38:31 _internal.py[line:87] INFO  * Debugger PIN: 130-578-507
+Fri,17 Nov 2017 17:37:16 log_func.py[line:15] DEBUG reuse test
+Fri,17 Nov 2017 17:37:16 log_func.py[line:15] DEBUG mongodb://root:123.com@localhost:27017/flask
+Fri,17 Nov 2017 17:37:16 _internal.py[line:87] INFO 114.255.67.90 - - [17/Nov/2017 17:37:16] "GET /blog/ HTTP/1.1" 200 -
+Fri,17 Nov 2017 17:50:03 _internal.py[line:87] INFO  * Detected change in '/root/blueprinttest/app/__init__.py', reloading
+Fri,17 Nov 2017 17:50:03 _internal.py[line:87] INFO  * Restarting with stat
+Fri,17 Nov 2017 17:50:03 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,17 Nov 2017 17:50:03 _internal.py[line:87] INFO  * Debugger PIN: 130-578-507
+Fri,17 Nov 2017 17:55:00 _internal.py[line:87] INFO  * Detected change in '/root/blueprinttest/app/blog/views.py', reloading
+Fri,17 Nov 2017 17:55:00 _internal.py[line:87] INFO  * Restarting with stat
+Fri,17 Nov 2017 17:55:00 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,17 Nov 2017 17:55:00 _internal.py[line:87] INFO  * Debugger PIN: 130-578-507
+Fri,17 Nov 2017 17:55:06 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Fri,17 Nov 2017 17:55:06 _internal.py[line:87] INFO  * Restarting with stat
+Fri,17 Nov 2017 17:55:07 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,17 Nov 2017 17:55:07 _internal.py[line:87] INFO  * Debugger PIN: 130-578-507
+Fri,17 Nov 2017 17:55:15 log_func.py[line:15] DEBUG reuse test
+Fri,17 Nov 2017 17:55:15 log_func.py[line:15] DEBUG mongodb://root:123.com@localhost:27017/flask
+Fri,17 Nov 2017 17:55:15 _internal.py[line:87] INFO 114.255.67.90 - - [17/Nov/2017 17:55:15] "GET /blog/ HTTP/1.1" 200 -
+Fri,17 Nov 2017 17:59:15 _internal.py[line:87] INFO  * Detected change in '/root/blueprinttest/app/blog/views.py', reloading
+Fri,17 Nov 2017 17:59:15 _internal.py[line:87] INFO  * Restarting with stat
+Fri,17 Nov 2017 17:59:15 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,17 Nov 2017 17:59:15 _internal.py[line:87] INFO  * Debugger PIN: 130-578-507
+Fri,17 Nov 2017 18:23:50 _internal.py[line:87] INFO  * Detected change in '/root/blueprinttest/app/blog/views.py', reloading
+Fri,17 Nov 2017 18:23:50 _internal.py[line:87] INFO  * Restarting with stat
+Fri,17 Nov 2017 18:23:50 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,17 Nov 2017 18:23:50 _internal.py[line:87] INFO  * Debugger PIN: 130-578-507
+Fri,17 Nov 2017 18:25:02 _internal.py[line:87] INFO  * Detected change in '/root/blueprinttest/app/blog/views.py', reloading
+Fri,17 Nov 2017 18:25:02 _internal.py[line:87] INFO  * Restarting with stat
+Fri,17 Nov 2017 18:25:02 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,17 Nov 2017 18:25:02 _internal.py[line:87] INFO  * Debugger PIN: 130-578-507
+Fri,17 Nov 2017 18:25:08 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Fri,17 Nov 2017 18:25:08 _internal.py[line:87] INFO  * Restarting with stat
+Fri,17 Nov 2017 18:25:08 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,17 Nov 2017 18:25:08 _internal.py[line:87] INFO  * Debugger PIN: 130-578-507
+Fri,17 Nov 2017 18:25:15 log_func.py[line:15] DEBUG reuse test
+Fri,17 Nov 2017 18:25:15 log_func.py[line:15] DEBUG mongodb://root:123.com@localhost:27017/flask
+Fri,17 Nov 2017 18:25:15 _internal.py[line:87] INFO 114.255.67.90 - - [17/Nov/2017 18:25:15] "GET /blog/ HTTP/1.1" 200 -
+Fri,17 Nov 2017 18:25:16 log_func.py[line:15] DEBUG reuse test
+Fri,17 Nov 2017 18:25:16 log_func.py[line:15] DEBUG mongodb://root:123.com@localhost:27017/flask
+Fri,17 Nov 2017 18:25:16 _internal.py[line:87] INFO 114.255.67.90 - - [17/Nov/2017 18:25:16] "GET /blog/ HTTP/1.1" 200 -
+Fri,17 Nov 2017 18:33:26 _internal.py[line:87] INFO  * Detected change in '/root/blueprinttest/app/email_func.py', reloading
+Fri,17 Nov 2017 18:33:26 _internal.py[line:87] INFO  * Restarting with stat
+Fri,17 Nov 2017 18:34:22 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Fri,17 Nov 2017 18:34:22 _internal.py[line:87] INFO  * Restarting with stat
+Fri,17 Nov 2017 18:34:22 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,17 Nov 2017 18:34:22 _internal.py[line:87] INFO  * Debugger PIN: 130-578-507
+Fri,17 Nov 2017 18:34:30 log_func.py[line:15] DEBUG reuse test
+Fri,17 Nov 2017 18:34:30 log_func.py[line:15] DEBUG mongodb://root:123.com@localhost:27017/flask
+Fri,17 Nov 2017 18:34:30 _internal.py[line:87] INFO 114.255.67.90 - - [17/Nov/2017 18:34:30] "GET /blog/ HTTP/1.1" 200 -
+Fri,17 Nov 2017 18:34:31 log_func.py[line:15] DEBUG reuse test
+Fri,17 Nov 2017 18:34:31 log_func.py[line:15] DEBUG mongodb://root:123.com@localhost:27017/flask
+Fri,17 Nov 2017 18:34:31 _internal.py[line:87] INFO 114.255.67.90 - - [17/Nov/2017 18:34:31] "GET /blog/ HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:27:00 yangpu_api_log.py[line:11] DEBUG test
+Fri,08 Dec 2017 18:28:45 yangpu_api_log.py[line:11] DEBUG test
+Fri,08 Dec 2017 18:28:45 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Fri,08 Dec 2017 18:28:45 _internal.py[line:87] INFO  * Restarting with stat
+Fri,08 Dec 2017 18:28:45 yangpu_api_log.py[line:11] DEBUG test
+Fri,08 Dec 2017 18:28:45 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,08 Dec 2017 18:28:45 _internal.py[line:87] INFO  * Debugger PIN: 313-194-016
+Fri,08 Dec 2017 18:30:05 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:30:05] "GET / HTTP/1.1" 404 -
+Fri,08 Dec 2017 18:30:06 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:30:06] "GET /favicon.ico HTTP/1.1" 404 -
+Fri,08 Dec 2017 18:30:20 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:30:20] "GET /blog HTTP/1.1" 301 -
+Fri,08 Dec 2017 18:30:21 log_func.py[line:15] DEBUG reuse test
+Fri,08 Dec 2017 18:30:21 log_func.py[line:15] DEBUG mongodb://root:123.com@localhost:27017/flask
+Fri,08 Dec 2017 18:30:21 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:30:21] "GET /blog/ HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:30:21 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:30:21] "GET /static/blog/img/logo.gif HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:30:55 log_func.py[line:15] DEBUG reuse test
+Fri,08 Dec 2017 18:30:55 log_func.py[line:15] DEBUG mongodb://root:123.com@localhost:27017/flask
+Fri,08 Dec 2017 18:30:55 _internal.py[line:87] INFO 106.120.161.68 - - [08/Dec/2017 18:30:55] "GET /blog/ HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:30:56 _internal.py[line:87] INFO 106.120.161.68 - - [08/Dec/2017 18:30:56] "GET / HTTP/1.1" 404 -
+Fri,08 Dec 2017 18:31:06 log_func.py[line:15] DEBUG reuse test
+Fri,08 Dec 2017 18:31:06 log_func.py[line:15] DEBUG mongodb://root:123.com@localhost:27017/flask
+Fri,08 Dec 2017 18:31:06 _internal.py[line:87] INFO 220.181.132.196 - - [08/Dec/2017 18:31:06] "GET /blog/ HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:31:06 _internal.py[line:87] INFO 101.199.108.57 - - [08/Dec/2017 18:31:06] "GET / HTTP/1.1" 404 -
+Fri,08 Dec 2017 18:31:15 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:31:15] "GET /yangpu_api/shidi HTTP/1.1" 500 -
+Fri,08 Dec 2017 18:31:15 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:31:15] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:31:15 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:31:15] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:31:16 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:31:16] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:31:16 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:31:16] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:31:17 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:31:17] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:31:17 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:31:17] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:31:40 _internal.py[line:87] INFO 182.118.20.157 - - [08/Dec/2017 18:31:40] "GET / HTTP/1.1" 404 -
+Fri,08 Dec 2017 18:31:43 _internal.py[line:87] INFO 106.120.160.109 - - [08/Dec/2017 18:31:43] "GET /yangpu_api/shidi HTTP/1.1" 500 -
+Fri,08 Dec 2017 18:32:13 _internal.py[line:87] INFO 182.118.20.150 - - [08/Dec/2017 18:32:13] "GET / HTTP/1.1" 404 -
+Fri,08 Dec 2017 18:33:45 _internal.py[line:87] INFO  * Detected change in '/root/backupofjd/root/blueprinttest/app/yangpu_api_12_8_17_7/yangpu_api.py', reloading
+Fri,08 Dec 2017 18:33:45 _internal.py[line:87] INFO  * Restarting with stat
+Fri,08 Dec 2017 18:33:45 yangpu_api_log.py[line:11] DEBUG test
+Fri,08 Dec 2017 18:33:45 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,08 Dec 2017 18:33:45 _internal.py[line:87] INFO  * Debugger PIN: 313-194-016
+Fri,08 Dec 2017 18:33:50 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:33:50] "GET /yangpu_api/shidi HTTP/1.1" 500 -
+Fri,08 Dec 2017 18:33:50 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:33:50] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:33:50 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:33:50] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:33:50 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:33:50] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:33:51 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:33:51] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:33:52 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:33:52] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:33:52 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:33:52] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+Fri,08 Dec 2017 18:35:09 _internal.py[line:87] INFO  * Detected change in '/root/backupofjd/root/blueprinttest/app/yangpu_api_12_8_17_7/yangpu_api.py', reloading
+Fri,08 Dec 2017 18:35:09 _internal.py[line:87] INFO  * Restarting with stat
+Fri,08 Dec 2017 18:35:09 yangpu_api_log.py[line:11] DEBUG test
+Fri,08 Dec 2017 18:35:09 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,08 Dec 2017 18:35:09 _internal.py[line:87] INFO  * Debugger PIN: 313-194-016
+Fri,08 Dec 2017 18:35:13 yangpu_api_log.py[line:11] DEBUG <type 'list'>
+Fri,08 Dec 2017 18:35:13 yangpu_api_log.py[line:11] DEBUG 789--267
+Fri,08 Dec 2017 18:35:13 yangpu_api_log.py[line:11] DEBUG 1056
+Fri,08 Dec 2017 18:35:13 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 18:35:13] "GET /yangpu_api/shidi HTTP/1.1" 200 -
+Fri,08 Dec 2017 19:32:02 yangpu_api_log.py[line:11] DEBUG <type 'list'>
+Fri,08 Dec 2017 19:32:02 yangpu_api_log.py[line:11] DEBUG 789--267
+Fri,08 Dec 2017 19:32:02 yangpu_api_log.py[line:11] DEBUG 1056
+Fri,08 Dec 2017 19:32:02 _internal.py[line:87] INFO 171.13.14.147 - - [08/Dec/2017 19:32:02] "GET /yangpu_api/shidi HTTP/1.1" 200 -
+Fri,08 Dec 2017 19:32:20 yangpu_api_log.py[line:11] DEBUG <type 'list'>
+Fri,08 Dec 2017 19:32:20 yangpu_api_log.py[line:11] DEBUG 789--267
+Fri,08 Dec 2017 19:32:20 yangpu_api_log.py[line:11] DEBUG 1056
+Fri,08 Dec 2017 19:32:20 _internal.py[line:87] INFO 101.199.108.58 - - [08/Dec/2017 19:32:20] "GET /yangpu_api/shidi HTTP/1.1" 200 -
+Fri,08 Dec 2017 20:01:49 yangpu_api_log.py[line:11] DEBUG <type 'list'>
+Fri,08 Dec 2017 20:01:49 yangpu_api_log.py[line:11] DEBUG 789--267
+Fri,08 Dec 2017 20:01:49 yangpu_api_log.py[line:11] DEBUG 1056
+Fri,08 Dec 2017 20:01:49 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 20:01:49] "GET /yangpu_api/shidi HTTP/1.1" 200 -
+Fri,08 Dec 2017 20:06:37 yangpu_api_log.py[line:11] DEBUG <type 'list'>
+Fri,08 Dec 2017 20:06:37 _internal.py[line:87] INFO 222.244.93.102 - - [08/Dec/2017 20:06:37] "GET /yangpu_api/nianbao HTTP/1.1" 200 -
+Fri,08 Dec 2017 20:07:20 yangpu_api_log.py[line:11] DEBUG <type 'list'>
+Fri,08 Dec 2017 20:07:20 _internal.py[line:87] INFO 106.120.160.109 - - [08/Dec/2017 20:07:20] "GET /yangpu_api/nianbao HTTP/1.1" 200 -
+Fri,08 Dec 2017 20:07:20 yangpu_api_log.py[line:11] DEBUG <type 'list'>
+Fri,08 Dec 2017 20:07:20 _internal.py[line:87] INFO 171.13.14.133 - - [08/Dec/2017 20:07:20] "GET /yangpu_api/nianbao HTTP/1.1" 200 -
+Fri,08 Dec 2017 20:07:37 yangpu_api_log.py[line:11] DEBUG <type 'list'>
+Fri,08 Dec 2017 20:07:37 _internal.py[line:87] INFO 220.181.132.198 - - [08/Dec/2017 20:07:37] "GET /yangpu_api/nianbao HTTP/1.1" 200 -
+Fri,08 Dec 2017 20:26:00 _internal.py[line:87] ERROR 140.205.225.204 - - [08/Dec/2017 20:26:00] code 400, message Bad request syntax ('JDWP-Handshake')
+Fri,08 Dec 2017 20:26:00 _internal.py[line:87] INFO 140.205.225.204 - - [08/Dec/2017 20:26:00] "JDWP-Handshake" 400 -
+Fri,08 Dec 2017 21:27:45 yangpu_api_log.py[line:11] DEBUG test
+Fri,08 Dec 2017 21:27:45 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Fri,08 Dec 2017 21:27:45 _internal.py[line:87] INFO  * Restarting with stat
+Fri,08 Dec 2017 21:27:45 yangpu_api_log.py[line:11] DEBUG test
+Fri,08 Dec 2017 21:27:45 _internal.py[line:87] WARNING  * Debugger is active!
+Fri,08 Dec 2017 21:27:45 _internal.py[line:87] INFO  * Debugger PIN: 313-194-016
+Mon,11 Dec 2017 09:13:20 yangpu_api_log.py[line:11] DEBUG test
+Mon,11 Dec 2017 09:13:20 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Mon,11 Dec 2017 09:13:20 _internal.py[line:87] INFO  * Restarting with stat
+Mon,11 Dec 2017 09:13:21 yangpu_api_log.py[line:11] DEBUG test
+Mon,11 Dec 2017 09:13:21 _internal.py[line:87] WARNING  * Debugger is active!
+Mon,11 Dec 2017 09:13:21 _internal.py[line:87] INFO  * Debugger PIN: 313-194-016
+Mon,11 Dec 2017 09:14:01 log_func.py[line:15] DEBUG reuse test
+Mon,11 Dec 2017 09:14:01 log_func.py[line:15] DEBUG mongodb://root:123.com@localhost:27017/flask
+Mon,11 Dec 2017 09:14:01 _internal.py[line:87] INFO 222.244.97.226 - - [11/Dec/2017 09:14:01] "GET /blog/ HTTP/1.1" 200 -
+Mon,11 Dec 2017 09:14:01 _internal.py[line:87] INFO 222.244.97.226 - - [11/Dec/2017 09:14:01] "GET /static/blog/img/logo.gif HTTP/1.1" 304 -
+Mon,11 Dec 2017 09:14:01 _internal.py[line:87] INFO 222.244.97.226 - - [11/Dec/2017 09:14:01] "GET /favicon.ico HTTP/1.1" 404 -
+Mon,11 Dec 2017 09:14:34 log_func.py[line:15] DEBUG reuse test
+Mon,11 Dec 2017 09:14:34 log_func.py[line:15] DEBUG mongodb://root:123.com@localhost:27017/flask
+Mon,11 Dec 2017 09:14:34 _internal.py[line:87] INFO 106.120.161.68 - - [11/Dec/2017 09:14:34] "GET /blog/ HTTP/1.1" 200 -
+Mon,11 Dec 2017 09:14:51 log_func.py[line:15] DEBUG reuse test
+Mon,11 Dec 2017 09:14:51 log_func.py[line:15] DEBUG mongodb://root:123.com@localhost:27017/flask
+Mon,11 Dec 2017 09:14:51 _internal.py[line:87] INFO 220.181.132.199 - - [11/Dec/2017 09:14:51] "GET /blog/ HTTP/1.1" 200 -
+Mon,11 Dec 2017 09:14:54 _internal.py[line:87] INFO 222.244.97.226 - - [11/Dec/2017 09:14:54] "GET /yangpu_api/map HTTP/1.1" 200 -
+Mon,11 Dec 2017 09:15:00 yangpu_api_log.py[line:11] DEBUG <type 'list'>
+Mon,11 Dec 2017 09:15:00 yangpu_api_log.py[line:11] DEBUG 789--267
+Mon,11 Dec 2017 09:15:00 yangpu_api_log.py[line:11] DEBUG 1056
+Mon,11 Dec 2017 09:15:00 _internal.py[line:87] INFO 222.244.97.226 - - [11/Dec/2017 09:15:00] "GET /yangpu_api/shidi HTTP/1.1" 200 -
+Mon,11 Dec 2017 09:16:06 yangpu_api_log.py[line:11] DEBUG <type 'list'>
+Mon,11 Dec 2017 09:16:06 yangpu_api_log.py[line:11] DEBUG 789--267
+Mon,11 Dec 2017 09:16:06 yangpu_api_log.py[line:11] DEBUG 1056
+Mon,11 Dec 2017 09:16:06 _internal.py[line:87] INFO 106.120.161.68 - - [11/Dec/2017 09:16:06] "GET /yangpu_api/shidi HTTP/1.1" 200 -
+Mon,11 Dec 2017 09:16:06 yangpu_api_log.py[line:11] DEBUG <type 'list'>
+Mon,11 Dec 2017 09:16:06 yangpu_api_log.py[line:11] DEBUG 789--267
+Mon,11 Dec 2017 09:16:06 yangpu_api_log.py[line:11] DEBUG 1056
+Mon,11 Dec 2017 09:16:06 _internal.py[line:87] INFO 171.13.14.146 - - [11/Dec/2017 09:16:06] "GET /yangpu_api/shidi HTTP/1.1" 200 -
+Mon,11 Dec 2017 09:16:06 _internal.py[line:87] INFO 106.120.160.109 - - [11/Dec/2017 09:16:06] "GET /yangpu_api/map HTTP/1.1" 200 -
+Mon,11 Dec 2017 09:16:06 _internal.py[line:87] ERROR Error on request:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 209, in run_wsgi
+    execute(self.server.app)
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 200, in execute
+    write(data)
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 181, in write
+    self.wfile.write(data)
+IOError: [Errno 32] Broken pipe
+Mon,11 Dec 2017 09:16:06 yangpu_api_log.py[line:11] DEBUG <type 'list'>
+Mon,11 Dec 2017 09:16:06 yangpu_api_log.py[line:11] DEBUG 789--267
+Mon,11 Dec 2017 09:16:06 yangpu_api_log.py[line:11] DEBUG 1056
+Mon,11 Dec 2017 09:16:06 _internal.py[line:87] INFO 171.13.14.146 - - [11/Dec/2017 09:16:06] "GET /yangpu_api/shidi HTTP/1.1" 200 -
+Mon,11 Dec 2017 09:16:06 _internal.py[line:87] INFO 171.13.14.146 - - [11/Dec/2017 09:16:06] "GET /yangpu_api/map HTTP/1.1" 200 -
+Mon,11 Dec 2017 09:16:06 _internal.py[line:87] ERROR Error on request:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 209, in run_wsgi
+    execute(self.server.app)
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 200, in execute
+    write(data)
+  File "/usr/lib/python2.7/site-packages/werkzeug/serving.py", line 181, in write
+    self.wfile.write(data)
+IOError: [Errno 32] Broken pipe
+Mon,11 Dec 2017 09:16:06 _internal.py[line:87] INFO 182.118.20.149 - - [11/Dec/2017 09:16:06] "GET /yangpu_api/map HTTP/1.1" 200 -
+Mon,11 Dec 2017 09:16:13 yangpu_api_log.py[line:11] DEBUG <type 'list'>
+Mon,11 Dec 2017 09:16:13 yangpu_api_log.py[line:11] DEBUG 789--267
+Mon,11 Dec 2017 09:16:13 yangpu_api_log.py[line:11] DEBUG 1056
+Mon,11 Dec 2017 09:16:13 _internal.py[line:87] INFO 220.181.132.194 - - [11/Dec/2017 09:16:13] "GET /yangpu_api/shidi HTTP/1.1" 200 -
+Mon,11 Dec 2017 09:16:29 _internal.py[line:87] INFO 220.181.132.196 - - [11/Dec/2017 09:16:29] "GET /yangpu_api/map HTTP/1.1" 200 -
+Mon,11 Dec 2017 09:22:25 _internal.py[line:87] INFO 47.254.23.238 - - [11/Dec/2017 09:22:25] "GET /blog HTTP/1.1" 301 -
+Mon,11 Dec 2017 09:22:26 log_func.py[line:15] DEBUG reuse test
+Mon,11 Dec 2017 09:22:26 log_func.py[line:15] DEBUG mongodb://root:123.com@localhost:27017/flask
+Mon,11 Dec 2017 09:22:26 _internal.py[line:87] INFO 47.254.23.238 - - [11/Dec/2017 09:22:26] "GET /blog/ HTTP/1.1" 200 -
+Mon,11 Dec 2017 10:48:53 _internal.py[line:87] ERROR 140.205.201.36 - - [11/Dec/2017 10:48:53] code 400, message Bad request syntax ('JDWP-Handshake')
+Mon,11 Dec 2017 10:48:53 _internal.py[line:87] INFO 140.205.201.36 - - [11/Dec/2017 10:48:53] "JDWP-Handshake" 400 -
+Mon,11 Dec 2017 23:03:08 yangpu_api_log.py[line:11] DEBUG test
+Mon,11 Dec 2017 23:08:23 yangpu_api_log.py[line:11] DEBUG test
+Mon,11 Dec 2017 23:09:51 yangpu_api_log.py[line:11] DEBUG test
+Mon,11 Dec 2017 23:09:51 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Mon,11 Dec 2017 23:09:51 _internal.py[line:87] INFO  * Restarting with stat
+Mon,11 Dec 2017 23:09:51 yangpu_api_log.py[line:11] DEBUG test
+Mon,11 Dec 2017 23:09:51 _internal.py[line:87] WARNING  * Debugger is active!
+Mon,11 Dec 2017 23:09:51 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Mon,11 Dec 2017 23:10:20 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:10:20] "GET /blog HTTP/1.1" 301 -
+Mon,11 Dec 2017 23:10:20 log_func.py[line:15] DEBUG reuse test
+Mon,11 Dec 2017 23:10:20 log_func.py[line:15] DEBUG mongodb://root:123.com@localhost:27017/flask
+Mon,11 Dec 2017 23:10:20 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:10:20] "GET /blog/ HTTP/1.1" 200 -
+Mon,11 Dec 2017 23:10:20 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:10:20] "GET /static/blog/img/logo.gif HTTP/1.1" 200 -
+Mon,11 Dec 2017 23:10:20 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:10:20] "GET /favicon.ico HTTP/1.1" 404 -
+Mon,11 Dec 2017 23:10:20 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:10:20] "GET /favicon.ico HTTP/1.1" 404 -
+Mon,11 Dec 2017 23:11:38 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:11:38] "GET /yangpu_api/shidi HTTP/1.1" 500 -
+Mon,11 Dec 2017 23:11:38 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:11:38] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+Mon,11 Dec 2017 23:11:38 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:11:38] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+Mon,11 Dec 2017 23:11:38 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:11:38] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+Mon,11 Dec 2017 23:11:38 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:11:38] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+Mon,11 Dec 2017 23:11:38 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:11:38] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+Mon,11 Dec 2017 23:11:38 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:11:38] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+Mon,11 Dec 2017 23:18:14 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/run.py', reloading
+Mon,11 Dec 2017 23:18:14 _internal.py[line:87] INFO  * Restarting with stat
+Mon,11 Dec 2017 23:18:14 yangpu_api_log.py[line:11] DEBUG test
+Mon,11 Dec 2017 23:20:26 yangpu_api_log.py[line:11] DEBUG test
+Mon,11 Dec 2017 23:22:38 yangpu_api_log.py[line:11] DEBUG test
+Mon,11 Dec 2017 23:41:37 yangpu_api_log.py[line:11] DEBUG test
+Mon,11 Dec 2017 23:41:37 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Mon,11 Dec 2017 23:41:37 _internal.py[line:87] INFO  * Restarting with stat
+Mon,11 Dec 2017 23:41:38 yangpu_api_log.py[line:11] DEBUG test
+Mon,11 Dec 2017 23:41:38 _internal.py[line:87] WARNING  * Debugger is active!
+Mon,11 Dec 2017 23:41:38 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Mon,11 Dec 2017 23:41:45 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:41:45] "GET /yangpu_api/shidi HTTP/1.1" 500 -
+Mon,11 Dec 2017 23:41:45 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:41:45] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+Mon,11 Dec 2017 23:41:45 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:41:45] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+Mon,11 Dec 2017 23:41:45 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:41:45] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+Mon,11 Dec 2017 23:41:45 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:41:45] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+Mon,11 Dec 2017 23:41:45 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:41:45] "GET /yangpu_api/shidi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+Mon,11 Dec 2017 23:42:16 _internal.py[line:87] INFO 127.0.0.1 - - [11/Dec/2017 23:42:16] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 00:05:37 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 00:05:37 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 00:05:37 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 00:05:37 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 00:05:37 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 00:05:37 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 00:05:45 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 00:05:45] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 00:06:58 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 00:06:58 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 00:06:58 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 00:06:58 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 00:06:58 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 00:06:58 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 00:07:05 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 00:07:05] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 01:11:38 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 01:11:38 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 01:11:38 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 01:11:38 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 01:11:38 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 01:11:38 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 01:11:46 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 01:11:46] "GET /house/pass HTTP/1.1" 404 -
+Tue,12 Dec 2017 01:11:48 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 01:11:48] "GET /house/pass HTTP/1.1" 404 -
+Tue,12 Dec 2017 01:11:58 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 01:11:58] "GET /house/all HTTP/1.1" 404 -
+Tue,12 Dec 2017 01:12:05 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 01:12:05] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 01:50:48 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 01:50:48 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 01:50:48 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 01:50:48 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 01:50:48 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 01:50:48 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 01:50:59 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 01:50:59] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 01:52:01 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 01:52:01 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 01:52:01 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 01:52:01 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 01:52:01 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 01:52:50 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 01:52:50 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 01:52:50 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 01:52:50 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 01:52:50 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 01:52:50 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 01:52:55 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 01:52:55] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 01:56:40 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 01:56:40] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 01:57:00 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 01:57:00 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 01:57:00 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 01:57:00 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 01:57:00 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 01:57:06 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 01:57:06] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 02:00:33 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 02:00:33 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:00:33 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:00:33 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:00:33 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:03:57 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 02:03:57 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:03:57 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:03:57 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:03:57 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:04:02 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:04:02 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 02:04:02 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:04:02 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:04:02 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:04:02 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:04:09 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 02:04:09] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 02:05:09 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 02:05:09 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:05:09 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:05:09 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:05:09 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:05:13 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:05:13 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 02:05:13 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:05:13 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:05:13 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:05:13 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:05:17 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 02:05:17] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 02:06:51 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 02:06:51 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:06:51 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:06:51 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:06:51 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:07:20 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 02:07:20 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:07:20 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:07:21 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:07:21 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:07:24 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:07:24 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 02:07:24 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:07:24 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:07:24 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:07:24 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:07:30 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 02:07:30] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 02:08:13 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 02:08:13 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:08:13 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:08:13 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:08:13 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:08:16 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:08:16 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 02:08:16 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:08:16 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:08:16 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:08:16 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:08:20 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 02:08:20] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 02:09:42 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:09:42 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 02:09:42 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:09:42 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:09:42 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:09:42 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:09:50 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 02:09:50] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 02:10:32 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 02:10:32 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:10:32 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:10:32 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:10:32 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:10:38 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:10:38 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 02:10:38 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:10:38 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:10:38 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:10:38 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:10:43 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 02:10:43] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 02:11:26 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 02:11:26 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:11:26 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:11:26 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:11:26 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:11:31 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:11:31 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 02:11:31 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:11:31 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:11:31 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:11:31 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:11:34 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 02:11:34] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 02:14:33 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 02:14:33 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:14:33 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:14:33 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:14:33 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:14:39 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:14:39 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 02:14:39 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:14:39 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:14:39 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:14:39 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:14:44 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 02:14:44] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 02:32:55 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 02:32:55 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:32:55 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:32:56 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:32:56 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:33:01 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:33:01 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 02:33:01 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:33:02 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:33:02 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:33:02 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:33:07 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 02:33:07] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 02:35:42 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 02:35:42 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:35:42 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:35:42 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:35:42 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:36:01 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 02:36:01] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 02:36:55 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 02:36:55 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:36:55 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:36:55 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:36:55 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:37:02 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 02:37:02] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 02:44:58 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 02:44:58 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:44:58 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:45:08 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:51:37 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:51:57 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:51:57 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 02:51:57 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 02:51:57 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 02:51:57 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 02:51:57 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 02:52:04 house_api.py[line:91] DEBUG data ok
+Tue,12 Dec 2017 02:52:04 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 02:52:04] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 02:52:06 house_api.py[line:91] DEBUG data ok
+Tue,12 Dec 2017 02:52:06 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 02:52:06] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 03:03:43 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 03:03:43 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 03:03:43 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 03:03:43 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 03:03:43 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 03:15:28 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 03:15:28 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 03:15:28 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 03:15:28 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 03:15:28 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 03:15:35 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 03:15:35 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 03:15:35 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 03:15:35 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 03:15:35 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 03:15:35 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 03:15:42 house_api.py[line:90] DEBUG data ok
+Tue,12 Dec 2017 03:15:42 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 03:15:42] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 17:25:00 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 17:25:00 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 17:25:00 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 17:25:00 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 17:25:00 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 17:25:00 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 17:25:22 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 17:25:22] "GET /house/ HTTP/1.1" 404 -
+Tue,12 Dec 2017 17:25:31 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 17:25:31] "GET /house/all HTTP/1.1" 404 -
+Tue,12 Dec 2017 17:26:30 house_api.py[line:91] DEBUG data ok
+Tue,12 Dec 2017 17:26:30 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 17:26:30] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 18:07:19 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 18:07:19 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 18:07:19 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 18:07:20 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 18:07:20 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 19:09:08 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 19:09:09 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 19:09:09 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 19:09:09 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 19:09:09 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 19:10:13 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 19:10:13 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 19:10:13 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 19:10:13 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 19:10:13 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 19:10:13 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 19:10:52 house_api.py[line:101] DEBUG data error
+Tue,12 Dec 2017 19:10:52 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 19:10:52] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 19:12:36 house_api.py[line:101] DEBUG data error
+Tue,12 Dec 2017 19:12:36 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 19:12:36] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 19:13:17 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 19:13:17 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 19:13:17 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 19:13:18 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 19:13:18 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 19:13:22 house_api.py[line:98] DEBUG data ok
+Tue,12 Dec 2017 19:13:22 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 19:13:22] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 19:21:06 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 19:21:06 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 19:21:06 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 19:21:07 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 19:21:07 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 19:21:07 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 19:21:10 house_api.py[line:98] DEBUG data ok
+Tue,12 Dec 2017 19:21:10 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 19:21:10] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 19:26:24 _internal.py[line:87] INFO  * Detected change in '/root/spider/blueprinttest/app/house/house_api.py', reloading
+Tue,12 Dec 2017 19:26:24 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 19:26:24 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 19:26:24 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 19:26:24 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 19:26:33 house_api.py[line:107] DEBUG data ok
+Tue,12 Dec 2017 19:26:33 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 19:26:33] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 19:26:37 house_api.py[line:107] DEBUG data ok
+Tue,12 Dec 2017 19:26:37 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 19:26:37] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 13:39:19 house_api.py[line:107] DEBUG data ok
+Tue,12 Dec 2017 13:39:19 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 13:39:19] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 13:40:58 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 13:40:58 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 13:40:58 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 13:40:58 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 13:40:58 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 13:40:58 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 13:41:01 house_api.py[line:107] DEBUG data ok
+Tue,12 Dec 2017 13:41:01 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 13:41:01] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 16:16:35 house_api.py[line:107] DEBUG data ok
+Tue,12 Dec 2017 16:16:35 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 16:16:35] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 16:16:36 house_api.py[line:107] DEBUG data ok
+Tue,12 Dec 2017 16:16:36 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 16:16:36] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 16:49:42 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 16:49:42 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 16:49:42 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 16:49:42 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 16:49:42 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 16:49:42 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 16:49:49 house_api.py[line:111] DEBUG data error
+Tue,12 Dec 2017 16:49:49 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 16:49:49] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 16:53:14 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 16:59:32 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 16:59:32 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 16:59:32 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 16:59:32 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 16:59:32 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 16:59:32 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 16:59:39 house_api.py[line:67] DEBUG data ok
+Tue,12 Dec 2017 16:59:39 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 16:59:39] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 17:01:19 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 17:01:19] "GET /favicon.ico HTTP/1.1" 404 -
+Tue,12 Dec 2017 17:32:32 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 17:32:32 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 17:32:32 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 17:32:32 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 17:32:32 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 17:32:32 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 17:32:41 house_api.py[line:67] DEBUG data ok
+Tue,12 Dec 2017 17:32:41 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 17:32:41] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 17:32:44 house_api.py[line:67] DEBUG data ok
+Tue,12 Dec 2017 17:32:44 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 17:32:44] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 17:32:45 house_api.py[line:67] DEBUG data ok
+Tue,12 Dec 2017 17:32:45 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 17:32:45] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 17:34:03 house_api.py[line:67] DEBUG data ok
+Tue,12 Dec 2017 17:34:03 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 17:34:03] "GET /house_api/all HTTP/1.1" 200 -
+Tue,12 Dec 2017 17:34:04 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 17:34:04] "GET /favicon.ico HTTP/1.1" 404 -
+Tue,12 Dec 2017 18:03:29 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 18:03:29 _internal.py[line:87] INFO  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Tue,12 Dec 2017 18:03:29 _internal.py[line:87] INFO  * Restarting with stat
+Tue,12 Dec 2017 18:03:29 yangpu_api_log.py[line:11] DEBUG test
+Tue,12 Dec 2017 18:03:29 _internal.py[line:87] WARNING  * Debugger is active!
+Tue,12 Dec 2017 18:03:29 _internal.py[line:87] INFO  * Debugger PIN: 126-471-095
+Tue,12 Dec 2017 18:03:34 house_api.py[line:67] DEBUG data ok
+Tue,12 Dec 2017 18:03:34 _internal.py[line:87] INFO 127.0.0.1 - - [12/Dec/2017 18:03:34] "GET /house_api/all HTTP/1.1" 200 -
