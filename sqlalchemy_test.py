@@ -35,6 +35,8 @@ session=Session()
 session.add_all([ed_user,ed_user1])
 ed_user.password='123.com'
 session.commit()
+#把session关闭后session里面就没东西了
+session.close()
 ulist=session.query(User).filter_by(password="123.com")
 for i in ulist:
   print i
